@@ -1,3 +1,3 @@
 # kerimtaray.github.io
 
-Personal website
+My simple personal website
