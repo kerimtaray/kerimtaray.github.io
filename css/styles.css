@@ -1,13 +1,19 @@
 body {
   background-color: white;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  line-height: 2;
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+  align-items: justify;
+}
+
+h1 {
+  font-size: 25px;
+  margin-top: 35px;
 }
 
 a {
   text-decoration: none;
-  color: #7F8487;
+  color: #7f8487;
 }
 
 hr {
@@ -31,10 +37,10 @@ hr {
 }
 
 a:hover {
-  color: #413F42;
+  color: #413f42;
 }
 
-@media only screen and (max-width: 900px)  {
+@media only screen and (max-width: 900px) {
   body {
     font-size: 1em;
   }
@@ -43,10 +49,8 @@ a:hover {
   }
 }
 
-@media only screen and (min-width: 901px)  {
+@media only screen and (min-width: 901px) {
   .middle-container {
-    width: 40%;
+    width: 35%;
   }
 }
-
-
